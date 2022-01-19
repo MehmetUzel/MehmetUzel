@@ -14,6 +14,8 @@
   ----
 </details>
 
+![snake gif](https://github.com/MehmetUzel/MehmetUzel/blob/output/github-contribution-grid-snake.gif)
+
 
 https://www.kaggle.com/mehmetuzelbey   <br>
 https://www.hackerrank.com/98mehmetuzel
