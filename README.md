@@ -1,20 +1,40 @@
+# Mehmet Uzel 🚀  
+**Indie Product Developer & Manager** | Building Mobile Experiences 📱  
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/MehmetUzel98?style=social)](https://x.com/MehmetUzel98)
 
-<details>
-  <summary>Github Public Stats :computer:</summary>
-<a href="https://github.com/MehmetUzel?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetUzel&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
-</a>
-<a href="https://github.com/MehmetUzel?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MehmetUzel&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" alt="Sasha's GitHub Stats" />
-</a>
+<p align="left">
+  <a href="https://apps.apple.com/developer/mehmet-uzel/id...">  <!-- Add your App Store link -->
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store">
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MehmetUzel)
-  ----
-</details>
+## 👨💻 Currently Shipping  
+🚨 **Paytodo** - Next-generation task management for iOS  
+[![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=testflight&logoColor=white)](https://testflight.apple.com/...)  <!-- Add your TestFlight link -->
 
-![snake gif](https://github.com/MehmetUzel/MehmetUzel/blob/output/github-contribution-grid-snake.gif)
+_*Building end-to-end as solo developer:*  
+📱 SwiftUI Architecture | 🔄 Core Data Sync | 🧪 User Testing | 📈 ASO Optimization
 
+## 💼 Professional Arsenal
+**Product Management**  
+📋 Roadmapping | 🧑💻 Technical Specs | 📊 Metrics-Driven Development
 
-https://www.kaggle.com/mehmetuzelbey   <br>
-https://www.hackerrank.com/98mehmetuzel
+**iOS Development**  
+ Swift & SwiftUI | 🧩 Combine | 🗄️ Core Data | 🔄 CloudKit
+
+**Indie Dev Toolkit**  
+🎨 Figma Prototyping | 📱 App Store Optimization | 🧪 Unit Testing | 🔥 Firebase
+
+## 📈 Current Stats
+<!-- GitHub Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=swift)  <!-- Replace with your GitHub username -->
+
+## 🤝 Let's Connect
+- 🐦 Daily insights on [Twitter](https://x.com/MehmetUzel98)
+- 📧 Reach me: [Your Professional Email]  <!-- Add your email -->
+
+## 🧠 Current Learning
+- 📚 Scaling indie apps to 100k users
+- ⚙️ Advanced Swift Concurrency
+- 🤑 Monetization strategies for utility apps
