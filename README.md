@@ -35,8 +35,8 @@
 
 ## 📊 Current Stats
 
-- **25K+ downloads** across all mobile apps  
-- **$20K+ in revenue** generated from mobile applications  
+- **40K+ downloads** across all mobile apps  
+- **$30K+ in revenue** generated from mobile applications  
 
 ---
 
