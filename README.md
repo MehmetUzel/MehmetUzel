@@ -22,17 +22,17 @@
     </a>
   </p>
 - **Platform:** 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.uzel.odedimmi">
-    <img src="https://img.shields.io/badge/Google%20Play-34A853?style=flat&logo=google-play&logoColor=white" alt="Download on the Google Play Store">
-  </a>
-</p>
+  <p>
+    <a href="https://play.google.com/store/apps/details?id=com.uzel.odedimmi">
+      <img src="https://img.shields.io/badge/Google%20Play-34A853?style=flat&logo=google-play&logoColor=white" alt="Download on the Google Play Store">
+    </a>
+  </p>
 - **Platform:** 
-<p>
-  <a href="https://odedimmi.com">
-    <img src="https://img.shields.io/badge/Open-Website-4285F4?style=for-the-badge&logo=globe&logoColor=white" alt="Use on the Website">
-  </a>
-</p>
+  <p>
+    <a href="https://odedimmi.com">
+      <img src="https://img.shields.io/badge/Try-on%20Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Try on Web">
+    </a>
+  </p>
 
 ### Paytodo – Privacy Focused Budget Management
 - **Purpose:** Simplify your budget tracking, expense monitoring, and debt management—all in one place.
